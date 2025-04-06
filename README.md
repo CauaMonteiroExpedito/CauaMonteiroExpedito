@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Cauã Expedito
+# 👨🏻‍💻 Cauã Expedito
 
 **Desenvolvedor BackEnd**
 

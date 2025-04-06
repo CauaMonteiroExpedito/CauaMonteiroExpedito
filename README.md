@@ -19,6 +19,7 @@ Conclui meu ensino médio na CE Professor Horácio Macedo. Atualmente, estou Ter
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/CauaMonteiroExpedito?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
+        <a href="www.linkedin.com/in/cauã-monteiro-expedito-08b85a239" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
 </p>
 
@@ -87,4 +88,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaMonteiroExpedito&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"
+    
   />

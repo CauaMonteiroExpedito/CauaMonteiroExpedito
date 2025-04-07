@@ -103,6 +103,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaMonteiroExpedito&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7&count_public=true&locale=pt-br" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaMonteiroExpedito&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7&count_public=true" 
   />
   </p>

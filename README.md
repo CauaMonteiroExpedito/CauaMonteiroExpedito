@@ -6,11 +6,16 @@ Me chamo Cauã Monteiro Expedito, tenho 18 anos e sou natural do Rio de Janeiro.
 Conclui meu ensino médio na CE Professor Horácio Macedo. Atualmente, estou terminando meu técnico em Informática na Faetec e estou estudando Analise e Desenvolvimento de Sistemas na Estácio.
 
 <p align="left">
-    <a href="https://github.com/CauaMonteiroExpedito?tab=repositories&sort=star">
+    <a href = "mailto:contato.cauaexpedito@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+         title="Gmail - cauamonteiro09@gmail.com" 
+         target="_blank">
+         </a>
+          <a href="https://www.linkedin.com/in/cauã-monteiro-expedito-08b85a239" target="_blank">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/CauaMonteiroExpedito?color=ff0000&style=for-the-badge&labelColor=cc0000&logo=star&label=estrelas"
+            alt="Me siga no LinkedIn" 
+            title="LinkedIn" 
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
         />
     </a>
     <a href="https://github.com/CauaMonteiroExpedito?tab=followers">
@@ -18,13 +23,6 @@ Conclui meu ensino médio na CE Professor Horácio Macedo. Atualmente, estou ter
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/CauaMonteiroExpedito?color=800080&labelColor=5e005e&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/cauã-monteiro-expedito-08b85a239" target="_blank">
-        <img 
-            alt="Me siga no LinkedIn" 
-            title="LinkedIn" 
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
         />
     </a>
 </p>

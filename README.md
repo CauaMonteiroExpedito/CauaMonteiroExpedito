@@ -8,7 +8,7 @@ Conclui meu ensino médio na CE Professor Horácio Macedo. Atualmente, estou ter
 <p align="left">
     <a href = "mailto:contato.cauaexpedito@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-         title="Gmail - cauamonteiro09@gmail.com" 
+         title="Gmail - contato.cauaexpedito@gmail.com" 
          target="_blank">
          </a>
           <a href="https://www.linkedin.com/in/cauã-monteiro-expedito-08b85a239" target="_blank">

@@ -3,7 +3,7 @@
 **Estudante de Análise e Desenvolvimento de Sistemas**
 
 Me chamo Cauã Monteiro Expedito, tenho 18 anos e sou natural do Rio de Janeiro. 
-Conclui meu ensino médio na CE Professor Horácio Macedo. Atualmente, estou terminando meu técnico em Informática na Faetec e estou estudando Analise e Desenvolvimento de Sistemas na Estácio.
+Conclui meu ensino médio na CE Professor Horácio Macedo. Atualmente, sou formado em Técnico de Informática pela Faetec e estou estudando Analise e Desenvolvimento de Sistemas na Estácio.
 
 <p align="left">
     <a href = "mailto:contato.cauaexpedito@gmail.com">

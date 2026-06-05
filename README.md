@@ -19,7 +19,7 @@ Olá, chamo Cauã Monteiro Expedito e sou desenvolvedor Full Stack. Atualmente, 
 </p>
 
 ---
-
+<!--Icones-->
 <img 
     align="left" 
     alt="Python" 
@@ -101,7 +101,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/
 <br/>
 
 ---
-
+<!--Pacman-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CauaMonteiroExpedito/CauaMonteiroExpedito/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CauaMonteiroExpedito/CauaMonteiroExpedito/output/pacman-contribution-graph.svg">

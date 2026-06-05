@@ -1,9 +1,8 @@
-# 👨🏻‍💻 Cauã Expedito
+    # Cauã Expedito
 
 **Estudante de Análise e Desenvolvimento de Sistemas**
 
-Olá, chamo Cauã Monteiro Expedito e sou desenvolvedor BackEnd.
-Atualmente, sou formado em Técnico de Informática pela Faetec e estou estudando Analise e Desenvolvimento de Sistemas na Estácio.
+Olá, chamo Cauã Monteiro Expedito e sou desenvolvedor Full Stack. Atualmente, sou formado em Técnologia da Informação e estou cursando Analise e Desenvolvimento de Sistemas.
 
 <p align="left">
     <a href = "mailto:contato.cauaexpedito@gmail.com">
@@ -18,42 +17,11 @@ Atualmente, sou formado em Técnico de Informática pela Faetec e estou estudand
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
         />
     </a>
-    <a href="https://github.com/CauaMonteiroExpedito?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/CauaMonteiroExpedito?color=800080&labelColor=5e005e&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
-<img align="left" 
-alt="Java"
-title="JAVA"
-width="30px" 
-style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-
-<img align="left" 
-alt="JavaScript"
-title="JavaScript"
-width="30px" 
-style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-          
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
 <img 
     align="left" 
     alt="Python" 
@@ -62,6 +30,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+<img align="left" 
+alt="JavaScript"
+title="JavaScript"
+width="30px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 <img 
     align="left" 
@@ -74,12 +49,28 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 
 <img 
     align="left" 
-    alt="MySQL" 
-    title="MySQL"
+    alt="HTML"
+    title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-    />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Css" 
+    title="Css3"
+    width="30px" 
+    style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    />   
+
+<img align="left" 
+alt="Java"
+title="JAVA"
+width="30px" 
+style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
 <img 
     align="left" 
@@ -90,25 +81,25 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
     />   
 
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-
-  <img 
+<img 
     align="left" 
-    alt="GitHub Stats" 
-    height="200" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=CauaMonteiroExpedito&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+    />
 
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaMonteiroExpedito&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7&count_public=true" 
-  />
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+    />
+
+<br/>
+<br/>
+
   </p>

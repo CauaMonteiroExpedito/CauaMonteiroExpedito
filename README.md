@@ -1,5 +1,3 @@
-    # Cauã Expedito
-
 **Estudante de Análise e Desenvolvimento de Sistemas**
 
 Olá, chamo Cauã Monteiro Expedito e sou desenvolvedor Full Stack. Atualmente, sou formado em Técnologia da Informação e estou cursando Analise e Desenvolvimento de Sistemas.
